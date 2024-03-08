@@ -5,12 +5,18 @@
 - Supports both JavaScript (`.js`) language.
 - Helps to quickly scaffold Ant Design components structure.
 
+## Installation
+- download antd-snippets-1.0.0.vsix file to your local system.
+- install .vsix
+  ```sh
+  code --install-extension your-extension-file.vsix
+  ```
 
 ## Usage
 
-To use the code snippets, simply type the prefix of the Ant Design component you want to insert, or right-click in the editor and select from the context menu.
+To use the code snippets, right-click in the editor and select from the context menu.
 
-For example, type `antd-button` to insert a `<Button>` component, or right-click and select `Ant Design Snippets` > `Button`.
+For example, right-click and select `插入antd组件` > `Button`.
 
 ## License
 
